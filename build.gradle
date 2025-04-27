@@ -187,7 +187,7 @@ spotless {
         // don't need to set target, it is inferred from java
 
         // apply a specific flavor of google-java-format
-        googleJavaFormat('1.26.0').aosp().reflowLongStrings().skipJavadocFormatting()
+        googleJavaFormat('1.26.0').reflowLongStrings().skipJavadocFormatting()
         // fix formatting of type annotations
         formatAnnotations()
         // make sure every file has the following copyright header.
