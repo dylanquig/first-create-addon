@@ -1,6 +1,7 @@
 /* (C)2025 */
 package com.example.examplemod;
 
+import com.example.examplemod.blocks.NoiseBlock;
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
 import net.minecraft.core.registries.BuiltInRegistries;

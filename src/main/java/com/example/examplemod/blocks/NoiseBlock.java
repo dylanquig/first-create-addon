@@ -1,5 +1,5 @@
 /* (C)2025 */
-package com.example.examplemod;
+package com.example.examplemod.blocks;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.util.RandomSource;
